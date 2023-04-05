@@ -6,4 +6,9 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="DataTransferObjects\MovementDtos\" />
+    <Folder Include="RequestFeatures\" />
+  </ItemGroup>
+
 </Project>
