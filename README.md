@@ -4,6 +4,8 @@ Technical test for junior place.
 Build a REST API service for managing a warehouse's products
 Swagger page open automatically - https://localhost:PORT/swagger/index.html
 
+Change the connection string to your own database server. see "appsetting.json"
+
 Technical List
 
 - Onion Architecture
