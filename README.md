@@ -2,6 +2,7 @@
 
 Technical test for junior place. 
 Build a REST API service for managing a warehouse's products
+Swagger page open automatically - https://localhost:PORT/swagger/index.html
 
 Technical List
 
