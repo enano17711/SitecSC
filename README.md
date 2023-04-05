@@ -1,6 +1,7 @@
 # SitecSC
 
-Technical test for junior place
+Technical test for junior place. 
+Build a REST API service for managing a warehouse's products
 
 Technical List
 
@@ -21,3 +22,11 @@ Tech Stack
 - Automapper
 - Swagger
 - Sql Server
+
+Tasks for Complete
+- HATEOS
+- Rate Limiting
+- Cache
+- Versions
+- Security with JWT, identity framework
+- Content Negotiation
